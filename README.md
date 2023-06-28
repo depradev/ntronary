@@ -1,3 +1,5 @@
+![alt text](https://files.catbox.moe/eg1bec.png)
+
 # ntronary
 netorare hentai org-roam wiki  
 For now everything is inside the file ntr.org  
