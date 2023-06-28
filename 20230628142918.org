@@ -1,9 +1,9 @@
 :PROPERTIES:
-:ID:       a5ed1742-1855-4106-8361-17cdf1925c6c
+:ID:       1cca90fb-ed75-4526-a7c8-0b608f3d5180
 :END:
-#+title: p20230628125436
+#+title: p20230628142918
 #+filetags: :ntronary:
-* NAME
-Milk Force
+- NAME
+Yamakumo
 * ARTWORK
 - [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

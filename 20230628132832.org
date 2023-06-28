@@ -2,7 +2,9 @@
 :ID:       6a1b1253-228e-463e-86c6-db5199673712
 :END:
 #+title: p20230628132832
-#+filetags: :artist:doujin:
+#+filetags: :ntronary:
 * NAME
 Dramus
 ドラムス
+* ARTWORK
+- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

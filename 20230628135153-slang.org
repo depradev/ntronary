@@ -2,7 +2,9 @@
 :ID:       35329d7e-10de-4ebb-af2d-f6b88106eb88
 :END:
 #+title: slang
+#+filetags: :ntronary:
+- parent: [[id:d7915fca-1ef4-4b84-990b-1a9a7d376c4b][help]]
 This is a dictionary of words to use to describe specialized but standardized roles, use them in your summaries.
 The way to avoid long explanations to commonplace phenomena.
-
+* LIST
 - amiga: loaned from spanish, female friend other than the love interest that plays a part in the story
