@@ -11,7 +11,7 @@ I only include artworks with enough artistic quality or interesting stories, the
 ## WHY?
 What's the goal of making suck a wiki?  
 I can search back any hentai I need to  
-I'm not dependent on search engines.  
+I'm not dependent on search engines. What if saucenao ever goes away?  
 All this information and effort is a waste if I keep it just for my eyes.
 ## HOW?
 Each entry is a summary that includes the most relevant words(moments) to enable searching with regexes.  
@@ -30,4 +30,7 @@ Structuring-formating ideas are welcome.
 Emacs is a text editor, org and org-roam is one of it's most successful applications. That said, you wouldn't need it to write-see the entries because it's almost a txt.  
 Just a quick look? Currently most of the structure is: name, then summary, then links.  
 For now you could go here and see the file: 
-https://raw.githubusercontent.com/depradev/ntronary/master/ntr.org
+https://raw.githubusercontent.com/depradev/ntronary/master/ntr.org  
+For the full experience you would:  
+git clone https://github.com/depradev/ntronary  
+as a folder inside your org-roam directory, the graph was made with org-roam-ui

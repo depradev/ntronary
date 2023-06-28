@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8a2aa9ed-9a9a-4612-9c59-8a35b433976b
+:END:
+#+title: p20230628154004
+#+filetags: :ntronary:
+- NAME
+Kirake
+kirake_hm
+* ARTWORK
+- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

@@ -10,7 +10,7 @@
 * OPERATIONAL INFORMATION
 The idea would be to:
 git clone https://github.com/depradev/ntronary
-as a folder inside your personal org-roam brain
+as a folder inside your org-roam directory
 
 Then you could add this to your config to have a quick template to create them inside that folder:
 
@@ -25,12 +25,12 @@ You ==link== to subjects, and ==tag== based on node properties
          :unnarrowed t)
         ("m" "ntronary special" plain
          "%?"
-         :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+filetags: :ntronary:\n")
+         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+filetags: :ntronary:\n")
          :unnarrowed t)
         ("p" "ntronary normal" plain
          "%?"
          ;; :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: ${title}\n")
-         :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: p%<%Y%m%d%H%M%S>\n#+filetags: :ntronary:\n- NAME\n* LINK\n")
+         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: p%<%Y%m%d%H%M%S>\n#+filetags: :ntronary:\n- NAME\n* LINK\n")
          :unnarrowed t)
         )
 )
