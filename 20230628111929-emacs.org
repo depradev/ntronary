@@ -13,6 +13,7 @@ as a folder inside your personal org-roam brain
 
 Then you could add this to your config to have a quick template to create them inside that folder:
 
+You ==link== to subjects, and ==tag== based on node properties
 
 #+begin_src emacs-lisp :results output none
 (setq org-roam-capture-templates
@@ -25,10 +26,10 @@ Then you could add this to your config to have a quick template to create them i
          "%?"
          :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n")
          :unnarrowed t)
-        ("n" "ntronary normal" plain
+        ("p" "ntronary normal" plain
          "%?"
          ;; :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: ${title}\n")
-         :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: %<%Y%m%d%H%M%S>\n* NAME\n* LINK\n")
+         :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: p%<%Y%m%d%H%M%S>\n- NAME\n* LINK\n")
          :unnarrowed t)
         )
 )
@@ -45,3 +46,8 @@ Then you could add this to your config to have a quick template to create them i
   - uses the TITLE as intended
     - using the "TITLE" string in the file name
     - for that use the "NAMES" filed in the note (my convention)
+** LINKAGE
+- it's reverse linkage, you would link to the previous (not the next) artwork
+  - also the artist name
+- this way there is no need to edit accient nodes
+  - worry not, the org-roam-buffer (==a tool that should always be activated==), is the tool that allows you to find both the next artwork (if any) and the artist name

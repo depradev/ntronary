@@ -1,11 +1,7 @@
 :PROPERTIES:
 :ID:       a5ed1742-1855-4106-8361-17cdf1925c6c
 :END:
-#+title: 20230628125436
+#+title: p20230628125436
 #+filetags: :artist:
 * NAME
 Milk Force
-* ARTWORKS
-- [[id:e62f1643-216a-432b-87cf-ec4ad71410c5][20230628125452]]
-- [[id:cabdf0d1-7d03-4d8c-b12b-f94ccdabb5d7][20230628130442]]
-  - [[id:859b21f7-6aba-404c-a525-ad24f28baf53][20230628130711]]
