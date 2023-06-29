@@ -1,5 +1,5 @@
 ![alt text](https://files.catbox.moe/eg1bec.png)
-![alt text](https://files.catbox.moe/krvntw.png)
+![alt text](https://files.catbox.moe/b2fsk8.png)
 
 # ntronary
 netorare hentai org-roam wiki  

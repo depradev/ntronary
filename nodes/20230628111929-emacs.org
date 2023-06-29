@@ -7,12 +7,17 @@
 * SEARCH INFORMATION
 - you would use a program like **rg** to look for regex matches like the artwork name, do so inside the git clone directory
   - rg has an emacs package available too, so you can ==M-x rg==
+* MOST USED FUNCTIONS
+- org-roam-toggle-buffer (to see the backlinks)
+- org-roam-node-find (for creating new nodes)
+- org-roam-node-insert (to link to nodes)
+- org-roam-tag-add (to add tags; node specific tags, NOT doujin-like ones)
 * OPERATIONAL INFORMATION
 The idea would be to:
 git clone https://github.com/depradev/ntronary
 as a folder inside your org-roam directory
 
-Then you could add this to your config to have a quick template to create them inside that folder:
+Then you add this to your emacs config.el, to get a quick-creation way to create new notes inside that folder:
 
 You ==link== to subjects, and ==tag== based on node properties
 
