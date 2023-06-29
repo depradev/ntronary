@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ee504f8b-cabb-48f0-8bb1-f62ed9908fc0
+:END:
+#+title: p20230629015722
+#+filetags: :ntronary:
+- NAME
+Motsuaki
+* ARTWORK
+- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
