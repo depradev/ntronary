@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       88c5762f-dde8-43e3-b946-62388d609041
+:END:
+#+title: p20230629031440
+#+filetags: :ntronary:
+- NAME
+Mameojitan
+* ARTWORK
+- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
