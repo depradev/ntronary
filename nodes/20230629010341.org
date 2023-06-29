@@ -3,7 +3,6 @@
 :END:
 #+title: p20230629010341
 #+filetags: :ntronary:
-- [[id:2985cb47-d679-4a6a-947e-03b00d743a02][p20230629003521]] artist
+- [[id:8ea9b291-215c-4039-9306-2fe5074c605c][doujin_series]]
 - NAME
-DARLING
-MARIN
+DARLING MARIN

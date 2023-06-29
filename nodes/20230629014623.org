@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6e226a1d-c0ee-4178-ae50-7ea2ee6f72f4
+:END:
+#+title: p20230629014623
+#+filetags: :ntronary:
+- NAME
+Ahemaru
+* ARTWORK
+- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
