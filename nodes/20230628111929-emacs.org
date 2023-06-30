@@ -45,6 +45,8 @@ Then you add this to your emacs config.el, to get a quick-creation way to create
   - also the artist name
 - this way there is no need to edit accient nodes
   - worry not, the org-roam-buffer (==a tool that should always be activated==), is the tool that allows you to find both the next artwork (if any) and the artist name
+** THEMES
+- Im using CAPITAL LETTERS to name the themes, so I can search them with rg just by using capitals
 ** TAGGING
 - You ==link== to subjects, and ==tag== based on node properties
 - Your tags are to be used to filter the node view. Independent of doujin tags.
