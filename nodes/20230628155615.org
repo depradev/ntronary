@@ -2,10 +2,8 @@
 :ID:       df161e9b-e6f2-4dd4-86a4-b377dbd94e7d
 :END:
 #+title: p20230628155615
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 ratatatat74
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
 * LINK
 https://exhentai.org/g/2043088/bdc53c0a6d/

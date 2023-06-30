@@ -2,8 +2,6 @@
 :ID:       1018795c-7d7b-4fde-8c1e-1b10370ee100
 :END:
 #+title: p20230629035144
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Shinjugai
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

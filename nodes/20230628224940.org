@@ -2,9 +2,7 @@
 :ID:       e27d7dc8-1431-406d-b9ea-8c8a1db0e0dc
 :END:
 #+title: p20230628224940
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Sannyuutei
 Sannyuutei Shinta
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

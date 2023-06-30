@@ -2,9 +2,7 @@
 :ID:       911f6620-26d1-4e4e-99b4-86ed2532ddce
 :END:
 #+title: p20230628151707
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 yuuhoku
 Yuuhoku.
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

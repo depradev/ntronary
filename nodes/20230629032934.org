@@ -2,8 +2,6 @@
 :ID:       9aac4c20-e035-4d37-b64f-4b0da169df1f
 :END:
 #+title: p20230629032934
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Miike Kei
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

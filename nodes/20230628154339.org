@@ -2,8 +2,6 @@
 :ID:       70f5c207-0579-419d-89d6-704757d4234e
 :END:
 #+title: p20230628154339
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Tsuge Yasuna
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

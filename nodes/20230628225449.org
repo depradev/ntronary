@@ -2,8 +2,6 @@
 :ID:       6b88f11e-487e-46fb-a1cc-064f91b0979a
 :END:
 #+title: p20230628225449
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 laliberte
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

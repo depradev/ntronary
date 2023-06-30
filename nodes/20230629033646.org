@@ -2,8 +2,6 @@
 :ID:       0a4bc8e3-184c-4ede-b5f7-c7b7a99bba55
 :END:
 #+title: p20230629033646
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Sanbun Kyoden
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

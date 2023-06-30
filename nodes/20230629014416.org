@@ -2,8 +2,6 @@
 :ID:       87b15f36-c61b-4437-91fe-027a2a1896ff
 :END:
 #+title: p20230629014416
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Merkonig
-* ARTWORKS
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

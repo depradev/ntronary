@@ -2,14 +2,12 @@
 :ID:       2985cb47-d679-4a6a-947e-03b00d743a02
 :END:
 #+title: p20230629003521
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Terasu MC
 Terasu Mc
 Doushia (Terasu MC)
 TERASU
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
 * LINK
 https://exhentai.org/g/1855865/52f19115e7/
 https://exhentai.org/g/1879294/aa72a30696/

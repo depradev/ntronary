@@ -2,8 +2,6 @@
 :ID:       945dba95-27f2-4e3c-8fd7-f158c3e8cfab
 :END:
 #+title: p20230629030506
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 FAT
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

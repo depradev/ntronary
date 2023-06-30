@@ -2,8 +2,6 @@
 :ID:       b591dfba-a1d7-488b-886f-ad356d71fe17
 :END:
 #+title: p20230628224608
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Digital Lover (Nakajima Yuka)
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

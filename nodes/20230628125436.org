@@ -2,8 +2,6 @@
 :ID:       a5ed1742-1855-4106-8361-17cdf1925c6c
 :END:
 #+title: p20230628125436
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 * NAME
 Milk Force
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

@@ -2,8 +2,6 @@
 :ID:       849145b9-e41d-44e3-b782-e3b28575af9a
 :END:
 #+title: p20230629031837
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Tsurutsuru Ippa
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

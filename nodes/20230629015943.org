@@ -2,9 +2,7 @@
 :ID:       08513ed1-1a08-4b9b-aba4-db561521a46d
 :END:
 #+title: p20230629015943
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Arakure
 Arakureta Monitachi (Arakure)
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]

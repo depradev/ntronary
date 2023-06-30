@@ -2,8 +2,6 @@
 :ID:       1cca90fb-ed75-4526-a7c8-0b608f3d5180
 :END:
 #+title: p20230628142918
-#+filetags: :ntronary:
+#+filetags: :artist:ntronary:
 - NAME
 Yamakumo
-* ARTWORK
-- [[id:e040b9ca-3102-44fa-a31c-5d42ee9e698a][artist_doujin]]
