@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       dc824e69-2789-4c68-891c-e28f2befbf1b
 :END:
-#+title: p20230628155720
-#+filetags: :ntronary:
-- [[id:df161e9b-e6f2-4dd4-86a4-b377dbd94e7d][p20230628155615]] artist
+#+title: d20230628155720
+#+filetags: :20230628155720:ntronary:
+- [[id:df161e9b-e6f2-4dd4-86a4-b377dbd94e7d][oᴗo]]
 - NAME
 Merry Christmas Special (English) {Ratatatat74}
 * LINK

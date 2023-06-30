@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       50f84e4f-5c6d-48db-80bb-33a1486ec8d8
 :END:
-#+title: p20230629035953
-#+filetags: :ntronary:
+#+title: d20230629035953
+#+filetags: :20230629035953:ntronary:
 - [[id:c8667a31-83b7-4f85-a408-a273bec490ea][p20230629035159]] related
-- [[id:1018795c-7d7b-4fde-8c1e-1b10370ee100][p20230629035144]] artist
+- [[id:1018795c-7d7b-4fde-8c1e-1b10370ee100][oᴗo]]
 - NAME
 Himawari wa Yoru ni Saku
 * LINK

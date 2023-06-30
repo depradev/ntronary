@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       4d4b3486-1979-4be3-86e0-0619bde1f4ec
 :END:
-#+title: p20230629024839
-#+filetags: :ntronary:
-- [[id:28e74c07-4dba-461e-890d-133b52c6d937][p20230629024614]] artist
+#+title: d20230629024839
+#+filetags: :20230629024839:ntronary:
+- [[id:28e74c07-4dba-461e-890d-133b52c6d937][oᴗo]]
 - NAME
 [nigiri usagi] 先輩に自分がメスである事をわからされる後輩・続【後編】
 * LINK

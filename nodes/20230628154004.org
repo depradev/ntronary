@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       8a2aa9ed-9a9a-4612-9c59-8a35b433976b
 :END:
-#+title: p20230628154004
-#+filetags: :artist:ntronary:
+#+title: oᴗo
+#+filetags: :20230628154004:artist:ntronary:
 - NAME
 Kirake
 kirake_hm

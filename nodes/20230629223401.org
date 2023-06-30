@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       6c02e84a-0bf9-4f03-9b17-e59a76f561fc
 :END:
-#+title: p20230629223401
-#+filetags: :artist:ntronary:
+#+title: oᴗo
+#+filetags: :20230629223401:artist:ntronary:
 - NAME
 Carn
 Magono-Tei (Carn)

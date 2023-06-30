@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       6a1b1253-228e-463e-86c6-db5199673712
 :END:
-#+title: p20230628132832
-#+filetags: :artist:ntronary:
+#+title: oᴗo
+#+filetags: :20230628132832:artist:ntronary:
 * NAME
 Dramus
 ドラムス

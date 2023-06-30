@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       911f6620-26d1-4e4e-99b4-86ed2532ddce
 :END:
-#+title: p20230628151707
-#+filetags: :artist:ntronary:
+#+title: oᴗo
+#+filetags: :20230628151707:artist:ntronary:
 - NAME
 yuuhoku
 Yuuhoku.

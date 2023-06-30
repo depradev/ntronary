@@ -1,9 +1,8 @@
 :PROPERTIES:
 :ID:       e35c63fd-9b3a-4a0e-9866-900dd5399529
 :END:
-#+title: p20230629005739
-#+filetags: :ntronary:
-- [[id:8ea9b291-215c-4039-9306-2fe5074c605c][doujin_series]]
+#+title: FATE SERIES
+#+filetags: :20230629005739:theme:ntronary:
 - NAME
-FATE SERIES
-MASH
+fate series
+mash

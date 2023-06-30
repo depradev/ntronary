@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       5c5e5441-3290-4f9f-b3e2-8466a64e82b5
 :END:
-#+title: p20230629020800
-#+filetags: :ntronary:
+#+title: d20230629020800
+#+filetags: :20230629020800:ntronary:
 crush doesnt know beta gets to hear
-- [[id:08513ed1-1a08-4b9b-aba4-db561521a46d][p20230629015943]] artist
+- [[id:08513ed1-1a08-4b9b-aba4-db561521a46d][oᴗo]]
 - NAME
 [Arakureta Monotachi (Arakure)] Shortcut de Megane no Niau Kawaii Beit no Kouhai no Heya ni Agarikonde Muriyari Hamedori shitatta [Digital]
 * LINK

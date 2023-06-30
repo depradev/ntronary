@@ -2,7 +2,7 @@
 :ID:       d4111671-7c82-4c5c-8631-378d7ecc64db
 :END:
 #+title: emacs
-#+filetags: :ntronary:
+#+filetags: :20230628111929-emacs:ntronary:
 - parent: [[id:d7915fca-1ef4-4b84-990b-1a9a7d376c4b][help]]
 * SEARCH INFORMATION
 - you would use a program like **rg** to look for regex matches like the artwork name
@@ -30,12 +30,12 @@ Then you add this to your emacs config.el, to get a quick-creation way to create
         ("p" "ntronary normal" plain
          "%?"
          ;; :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: ${title}\n")
-         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: p%<%Y%m%d%H%M%S>\n#+filetags: :ntronary:\n- NAME\n* LINK\n")
+         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: d%<%Y%m%d%H%M%S>\n#+filetags: :%<%Y%m%d%H%M%S>:ntronary:\n- NAME\n* LINK\n")
          :unnarrowed t)
         ("a" "ntronary artist" plain
          "%?"
          ;; :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: ${title}\n")
-         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: p%<%Y%m%d%H%M%S>\n#+filetags: :artist:ntronary:\n- NAME\n* LINK\n")
+         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: A\n#+filetags: :%<%Y%m%d%H%M%S>:artist:ntronary:\n- NAME\n")
          :unnarrowed t)
         )
 )

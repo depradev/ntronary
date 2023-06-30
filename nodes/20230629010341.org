@@ -1,8 +1,7 @@
 :PROPERTIES:
 :ID:       d3411447-d550-45c9-9e87-5d38c4b82f86
 :END:
-#+title: p20230629010341
-#+filetags: :ntronary:
-- [[id:8ea9b291-215c-4039-9306-2fe5074c605c][doujin_series]]
+#+title: DRESS UP DARLING
+#+filetags: :20230629010341:theme:ntronary:
 - NAME
-DARLING MARIN
+darling marin

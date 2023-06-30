@@ -1,8 +1,7 @@
 :PROPERTIES:
 :ID:       49091407-973a-4156-802f-34e9c99191e1
 :END:
-#+title: p20230629234513
-#+filetags: :ntronary:
-- parent: [[id:7c797ef1-2229-4a34-b75c-f23c77f2ba43][doujin_theme]]
+#+title: FATHER IS HOUSEGUEST
+#+filetags: :20230629234513:theme:ntronary:
 - NAME
-FATHER HOUSEGUEST
+father houseguest

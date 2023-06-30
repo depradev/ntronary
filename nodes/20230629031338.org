@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       55427639-bbd3-4c3f-a1b3-fbfd2e1e8747
 :END:
-#+title: p20230629031338
-#+filetags: :ntronary:
-- [[id:44a2a6fc-2f5e-4b46-ac88-816f5d38d552][p20230629030911]] artist
+#+title: d20230629031338
+#+filetags: :20230629031338:ntronary:
+- [[id:44a2a6fc-2f5e-4b46-ac88-816f5d38d552][oᴗo]]
 - NAME
 [Mame] Milk Crown
 * LINK

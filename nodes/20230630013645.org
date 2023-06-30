@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       dad545fc-89a4-49e2-a919-3cfee2de3991
 :END:
-#+title: p20230630013645
-#+filetags: :ntronary:
+#+title: d20230630013645
+#+filetags: :20230630013645:ntronary:
 cheating while on vacation, while hubby with son fishing by the sea or sleep
-- [[id:76ed14b9-c5ba-47e9-a018-363fc92a23f1][p20230630013519]] artist
+- [[id:76ed14b9-c5ba-47e9-a018-363fc92a23f1][oᴗo]]
 - NAME
 [Haitoku Sensei] Ore no Yome ga Netorarete Iru! ~Umi no Mieru Machi Kouhen~
 * LINK

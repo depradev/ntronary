@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       3dcda526-3ca7-4440-a303-a2414b53ed5d
 :END:
-#+title: p20230628230923
-#+filetags: :ntronary:
-- [[id:6b88f11e-487e-46fb-a1cc-064f91b0979a][p20230628225449]] artist
+#+title: d20230628230923
+#+filetags: :20230628230923:ntronary:
+- [[id:6b88f11e-487e-46fb-a1cc-064f91b0979a][oᴗo]]
 - NAME
 [Laliberte] Mistake [Korean]
 * LINK

@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       6d872db7-e1b0-4b3c-ae08-15110fce2e31
 :END:
-#+title: p20230629232102
-#+filetags: :artist:ntronary:
+#+title: oᴗo
+#+filetags: :20230629232102:artist:ntronary:
 - NAME
 Shioroku
 Salt180 (Shioroku)

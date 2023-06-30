@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       7c797ef1-2229-4a34-b75c-f23c77f2ba43
-:END:
-#+title: doujin_theme
-#+filetags: :ntronary:

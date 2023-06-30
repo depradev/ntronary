@@ -1,9 +1,9 @@
 :PROPERTIES:
 :ID:       5d68b2ff-49b1-41aa-b0b6-4f5bf63b501e
 :END:
-#+title: p20230628155842
-#+filetags: :ntronary:
-- [[id:df161e9b-e6f2-4dd4-86a4-b377dbd94e7d][p20230628155615]] artist
+#+title: d20230628155842
+#+filetags: :20230628155842:ntronary:
+- [[id:df161e9b-e6f2-4dd4-86a4-b377dbd94e7d][oᴗo]]
 - NAME
 Short Stories [SH Translate] English
 * LINK
