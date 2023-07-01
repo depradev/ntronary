@@ -2,4 +2,4 @@
 :ID:       e99614c7-7642-4fe5-838b-91474bb0a43d
 :END:
 #+title: MOM-NTR
-#+filetags: :20230701051010:ntronary:
+#+filetags: :20230701051010:ntronary:theme:

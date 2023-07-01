@@ -29,10 +29,5 @@ I would welcome and merge-in similar efforts of equivalent dedication.
 Then we could operate as silos where summary-reviews for the same artwork get included in a single file.
 Structuring-formating ideas are welcome.
 ## INSTRUCTIONS
-Emacs is a text editor, org and org-roam is one of it's most successful applications. That said, you wouldn't need it to write-see the entries because it's almost a txt.  
-Just a quick look? Currently most of the structure is: name, then summary, then links.  
-For now you could go here and see the file: 
-https://raw.githubusercontent.com/depradev/ntronary/master/ntr.org  
-For the full experience you would:  
 git clone https://github.com/depradev/ntronary  
 as a folder inside your org-roam directory, the graph was made with org-roam-ui
