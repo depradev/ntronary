@@ -35,7 +35,7 @@ Then you add this to your emacs config.el, to get a quick-creation way to create
         ("a" "ntronary artist" plain
          "%?"
          ;; :if-new (file+head "ntronary/%<%Y%m%d%H%M%S>.org" "#+title: ${title}\n")
-         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: A\n#+filetags: :%<%Y%m%d%H%M%S>:artist:ntronary:\n- NAME\n")
+         :if-new (file+head "ntronary/nodes/%<%Y%m%d%H%M%S>.org" "#+title: oᴗo\n#+filetags: :%<%Y%m%d%H%M%S>:artist:ntronary:\n- NAME\n")
          :unnarrowed t)
         )
 )
