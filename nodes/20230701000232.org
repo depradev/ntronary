@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2ddda253-5c15-41ae-b5dc-316b4208fb3e
+:END:
+#+title: BLACK
+#+filetags: :20230701000232:ntronary:theme:
