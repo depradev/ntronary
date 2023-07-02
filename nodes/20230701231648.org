@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       caa13add-faed-47fb-aaf8-8c4e4f28b867
+:END:
+#+title: CAPTION
+#+filetags: :20230701231648:ntronary:theme:
+- NAME
+CAPTION

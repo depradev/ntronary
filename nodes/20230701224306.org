@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5c2a059d-3409-42e6-9aca-bd8168342fde
+:END:
+#+title: NETORI
+#+filetags: :20230701224306:ntronary:theme:

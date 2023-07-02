@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       93716f38-bd6d-4578-a024-2cce444671b2
+:END:
+#+title: POKEMON
+#+filetags: :20230701225054:ntronary:theme:
+- NAME
+POKEMON

@@ -1,12 +1,9 @@
 ![alt text](https://files.catbox.moe/kfr8zv.png)
-![alt text](https://files.catbox.moe/ywly71.png)
-![alt text](https://files.catbox.moe/4l8wv6.png)
+![alt text](https://files.catbox.moe/wb9q96.png)
+![alt text](https://files.catbox.moe/h9c189.png)
 
 # ntronary
 netorare hentai org-roam wiki  
-For now almost everything is still inside the file ntr.org  
-Basically, this is my coomfile.  
-But inside the "nodes" folder you can appreciate the true shape of the project.  
 ## WHAT?
 The current structure is a single org file which I intend to split per artwork, with an extra node per artist.  
 I only include artworks with enough artistic quality or interesting stories, the metric being how hard my pp gets and how much would I remember them.  
