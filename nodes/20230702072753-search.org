@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       ea6495e4-82dc-4a07-b938-612ddfb25a5d
+:END:
+#+title: search
+#+filetags: :20230702072753:ntronary:
+- parent: [[id:d7915fca-1ef4-4b84-990b-1a9a7d376c4b][HELP]]
+
+- this is a raw example on how to seach for artists, for the time being
+- you would add this to your .bashrc
+- then use it as: ar <artist-name>
+#+begin_src bash :results output none
+artist(){
+     CURRENTDIR=$(pwd)
+     cd ~/org/roam/ntronary/nodes
+     for f in *.org; do
+            if grep -q "#+filetags:.*:artist:" "$f"; then
+                    if grep -qiF "$1" "$f"; then
+                            echo $f
+                            tail -n +7 $f
+                            echo
+                    fi
+            fi
+     done
+     cd $CURRENTDIR
+}
+alias ar="artist"
+#+end_src

@@ -8,8 +8,8 @@ netorare hentai org-roam wiki
 The current structure is a single org file which I intend to split per artwork, with an extra node per artist.  
 I only include artworks with enough artistic quality or interesting stories, the metric being how hard my pp gets and how much would I remember them.  
 ## WHY?
-What's the goal of making suck a wiki?  
-I can search back any hentai I need to  
+What's the goal of making-sharing such a wiki?  
+I can search back any hentai I need to.  
 I'm not dependent on search engines. What if saucenao ever goes away?  
 All this information and effort is a waste if I keep it just for my eyes.
 ## HOW?
@@ -25,6 +25,9 @@ My personal org-roam garden has so much information and it only weighs a few Mb.
 I would welcome and merge-in similar efforts of equivalent dedication.  
 Then we could operate as silos where summary-reviews for the same artwork get included in a single file.
 Structuring-formating ideas are welcome.
+## NTROTICA?
+It's a similar effort but for cuckold-erotica literary works, like from literotica.  
+It differs in that it's all contained into a single file using org-tags instead of org-roam.  
 ## INSTRUCTIONS
 git clone https://github.com/depradev/ntronary  
 as a folder inside your org-roam directory, the graph was made with org-roam-ui
