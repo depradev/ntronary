@@ -1,0 +1,657 @@
+#+title: Ntrotica
+
+- why is ntrotica organized differently than the ntronary?
+  - no hard reason
+    - but visual metadata for visual artworks?
+  - and headers can link and be linked by nodes if need be
+
+#+begin_src emacs-lisp :results output none
+(setq org-capture-templates
+      (quote
+       (("d"
+         "Default template"
+         entry
+         (file+headline "~/org/capture.org" "NOTES")
+         "* %^{Title}  Source: %u, %a\n  %c%?"
+         :empty-lines 0)
+        ("l"
+         "Ntrotic Scratch"
+         entry
+         (file+headline "~/org/roam/ntronary/ntrotica.org" "STORIES")
+         "* %?\n- \n** LINK\n"
+         :empty-lines 0)
+        ("p"
+         "Protocol"
+         entry
+         (file+headline "~/org/roam/ntronary/ntrotica.org" "STORIES")
+         "* %i\n:PROPERTIES:\n:Writer: %?\n- \n** LINK\n%l"
+         :empty-lines 0)
+        )))
+#+end_src
+
+* STORIES
+** Bully Claimed My Wife at Reunion :classreunion:feminist:
+:PROPERTIES:
+:Writer: lustdarkly
+- dommy wife ends up making out and leaving with bully at beta class reunion, his friends watched silently
+*** LINK
+https://www.literotica.com/s/bully-claimed-my-wife-at-reunion
+** The Unwanted Houseguest :brother:feminist:
+:PROPERTIES:
+:Writer: Stormbringer
+- alfa brother comes to live with them, wife was feminist, with bets gets through her
+- ends up having public sex while photographer takes pics for porn magazine
+- bf oblivious, at the end beta finds her all worn up
+*** LINK
+https://www.literotica.com/s/the-unwanted-houseguest
+https://www.asstr.org/files/Authors/Stormbringer/The%20Unwanted%20Houseguest.txt
+** Hipster Chicks Love Big Dicks :feminist:
+:PROPERTIES:
+:Writer: TheTalkMan
+- during a flight, special secret agent teaches a couple women place in life
+- she leaves to bathroom hoping for beta to catch on her, instead alfa shows up after blackmailing beta into inaction, everyone on the flight hears the affair
+*** LINK
+https://www.literotica.com/s/hipster-chicks-love-big-dicks
+** She Opened My Mind :feminist:
+:PROPERTIES:
+:Writer: B_Couric
+- russian gf, convinces bf of eugenics and to let her breed better
+- leaves him with his family while she is enjoying inside with alfa
+*** LINK
+https://www.literotica.com/s/she-opened-my-mind
+** A Wife Turned :feminist:
+:PROPERTIES:
+:Writer: Mike2012
+- suddenly found old acquitance gets wife to behave like a slut by treating her like a slut
+*** LINK
+https://www.literotica.com/s/a-wife-turned
+** "We" Are Waiting Until Marriage :deflower:keptvirgin:
+:PROPERTIES:
+:Writer: Luv4hotwives
+- she was virgin, asked bf to let her learn more with alfa friend
+- she arranges for alfa to come with them during the honeymoon
+*** LINK
+https://www.literotica.com/s/we-are-waiting-until-marriage
+** He Fucked My Girl :multiple:weddingnight:netorase:
+:PROPERTIES:
+:Writer: xleglover
+- ricky early in life realices his cuckold tendencies, pushes for his gf to cuck him, alfa(s) do so
+- at some point scott gets a threesome with jenny(gf) and alice(girl who hates beta) and mocks him by sending him a video on his birthday
+*** LINK
+https://archive.fo/kfYyR#selection-64.0-64.1
+** Cuckolded at My Own Bachelor Party, Wedding, and Honeymoon :honeymoon:weddingnight:
+:PROPERTIES:
+:Writer: obliviouscuckold
+- alfa fucks her on the bed while they keep him on the floor, they throw a condom at him
+*** LINK
+https://www.obliviouscuckold.com/cuckolded-at-my-own-bachelor-party-wedding-and-honeymoon/
+** Hired by My Fiance's Ex :denied:boss:
+:PROPERTIES:
+:Writer: Lucas96
+- bf starts working at gf-ex gym, slowly through him alfa reconnects with gf who at first thought she was cheating
+*** LINK
+https://www.literotica.com/s/hired-by-my-fiances-ex-ch-01
+** The Nerd :keptvirgin:
+:PROPERTIES:
+:Writer: Omega12
+- she marries a virgin to control him
+- pretends her ex is her brother so bf agrees to let him live with them after he comes out of prison
+*** LINK
+https://www.literotica.com/s/the-nerd-pt-01
+** The Honeymoon :wedding:netorase:
+:PROPERTIES:
+:Writer: Andrew1968
+- at (cuck)beta wedding, gf and alfa make out to all-surprise
+- leave beta to explain the situation, openly leaving to enjoy the honeymoon
+*** LINK
+https://www.literotica.com/s/the-honeymoon-11
+** Cucked in the Tropics :honeymoon:black:
+:PROPERTIES:
+:Writer: jackal54641
+- at honeymoon she witnesses black casually-fucking petite-cheating-asian
+- the asian slowly convinces her to cheat(later cuck) her new hubby
+*** LINK
+https://www.literotica.com/s/cucked-in-the-tropics-ch-01
+** Selling Our Honeymoon :honeymoon:keptvirgin:impregnation:black:
+:PROPERTIES:
+:Writer: ali1bali
+- couple gets screwed over, the contract limits are bended; she keeps the baby
+*** LINK
+https://literotica.com/s/selling-our-honeymoon
+** Andy and Stephanie :keptvirgin:weddingnight:honeymoon:
+:PROPERTIES:
+:Writer: ali1bali
+- a small dicked man marries the size queen of his dreams
+- accidentally(at first) delays the wedding night, bf outed from the hotel
+- she comes out clean about the truth and her new intent
+*** LINK
+https://www.literotica.com/s/andy-and-stephanie-pt-01
+** Cucked in the Tropics :honeymoon:black:trip:
+:PROPERTIES:
+:Writer: jackal54641
+- a snowstorm traps random alfa with them
+- at first "consensual" quicly alfa takes over, pushes bf little penis out of her
+- she keeps going even when bf no longer cool with it
+- gf totally ok when she learns alfa casually cucks other people
+- bf beaten up, restrained on a chair and they fuck on top of him
+*** LINK
+https://www.literotica.com/s/cucking-the-snowbound-couple
+** Faithful Wife's Fall From Grace :netorase:chastitycage:
+:PROPERTIES:
+:Writer: xleglover
+- it is netorase but she also cheats on the side
+- she leaves beta for months
+*** LINK
+https://ourhotwives.org/forum/viewtopic.php?f=8&t=44432&p=761747#p761747
+** Donna Goes Camping :trip:
+:PROPERTIES:
+:Writer: ret123
+- at trip she has sex with annoying bully, bf wakes up to her sounds in next tent, friends witnessing
+- once back she has sex again with alfa
+*** LINK
+https://www.literotica.com/s/donna-goes-camping-pt-01
+** Beach Rental :trip:multiple:
+:PROPERTIES:
+:Writer: Gustav Jorgenson
+- lost bet, alfa gets to sleep in bed with wife, pretend nothing happening (at first)
+- what is happening (with amiga is inside too) in the bathroom? a secret
+*** LINK
+https://gustavjorgensonauthor.wordpress.com/2020/04/11/beach-rental/
+** New Neighbors :neighbor:denied:
+:PROPERTIES:
+:Writer: cabanaz
+- gf comes to practice with alfa expanding her vagina
+- amiga gifts her one of her "please breed me" since she was too
+- near-bf release gf decides to breed with alfa instead at public party
+*** LINK
+https://www.literotica.com/s/new-neighbors-12
+** New Neighbors :neighbor:denied:
+:PROPERTIES:
+:Writer: ukresearcher
+- cheating alfa dumped by amiga sets target on gf, the first time just happened
+- they ask-corner bf into conscent
+- bf challenges them when she starts thinking in pregnancy
+*** LINK
+https://www.literotica.com/s/irresistible-impulse
+** Wife Grudge Fucked in Courtyard :neighbor:
+:PROPERTIES:
+:Writer: Gustav Jorgenson
+- wife goes to argue with neighbor whose fucking next door because bf was too beta to challenge him
+- same thing happens to her with neighbors watching
+*** LINK
+https://www.literotica.com/s/wife-grudge-fucked-in-courtyard
+** Good Neighbor Sam :neighborhood:black:
+:PROPERTIES:
+:Writer: PenPal
+- The whole neighborhood has been cucked by black alfa
+- peer pressure won wife, and bf too
+- gf gets tattoo
+*** LINK
+https://www.asstr.org/files/Authors/PenPal/Good%20Neighbor%20Sam.txt
+** Cuckolded and Humiliated by the Frat Boy Next Door :neighbor:
+:PROPERTIES:
+:Writer: obliviouscuckold
+- they both pretend it isn't happening, she just goes there and bf too but as a maid
+*** LINK
+https://www.obliviouscuckold.com/cuckolded-and-humiliated-by-the-frat-boy-next-door/
+** Catching the Wife :black:neighbor:
+:PROPERTIES:
+:Writer: ochasseur11
+- living appart for a bit
+- black neighbor invites bf to night club, there black finds and seduces gf
+- beta tells black not to, that she was his gf, black thinks he is jocking
+- from there on they have an affair next door
+*** LINK
+https://www.literotica.com/s/catching-the-wife-vol-01
+** My Wife's Big Mouth :shehatedalfa:notasecret:
+:PROPERTIES:
+:Writer: Jordan45
+- both parents, chesty hated alfa, she made bet which she loses, later invited her to party, refused to leave so bf had to drop kids, comes back to witness her getting fucked wich another couple also witnesses
+*** LINK
+https://www.literotica.com/s/my-wifes-big-mouth-1
+** Roy's Conquests: Hot For Teacher :neighbor:
+:PROPERTIES:
+:Writer: Jackal54641
+- alfa uses beta to get crush to cheat, but then claims her all for himself, beta was merely a tool
+*** LINK
+https://www.literotica.com/s/roys-conquests-hot-for-teacher
+** Neighbor Chronicles :neighbor:notasecret:netorase:
+:PROPERTIES:
+:Writer: AvidReaderNoviceWriter
+- ugly bastard with big cock as neighbour
+- hubby with cuck fantasies, bastard at first thought she was cheating
+- alfa drugs beta so he can enjoy wife special lingerine
+  - first time, all night, things never done with beta
+- she ends it, but secretly not
+*** LINK
+https://www.literotica.com/s/neighbor-chronicles-pt-01
+
+** My Brother Made Me a Cockold :brother:impregnation:
+:PROPERTIES:
+:Writer: C.D.E.
+- bf infertile, bf-mom arranges (with sister help) for alfa brother to fullfill
+- they become a couple in all but name, even go to vacation together while bf takes care of the kids
+*** LINK
+https://www.asstr.org/~Kristen/09/brother.txt
+** Partners :multiple:
+:PROPERTIES:
+:Writer: The Stork
+- exwife, sister, daughter, wife all fall pray to alfa business partner
+*** LINK
+https://www.asstr.org/~Kristen/51/partners.txt
+** An Unwanted Affair :father:
+:PROPERTIES:
+:Writer: arrow_poison
+- father impregnated daughter in law, wife of useless son, they had no sex for one year
+*** LINK
+https://www.literotica.com/s/an-unwanted-affair
+** Home For the Holidays :multiple:black:
+:PROPERTIES:
+:Writer: OnyxMasters
+- black takes mother, then takes sister
+- naive brother privately wondered if mom was blind-deft
+- brother makes mistake of bringing gf over and black takes her too
+- years later same thing with fiance
+  - who doesnt leave him and instead gets pregnant twice
+*** LINK
+https://www.literotica.com/s/home-for-the-holidays-30
+** Family Skeleton :impregnation:notasecret:
+:PROPERTIES:
+:Writer: steelring
+- twins pregnant repeatedly, bf hears one thank the other for letting her-bf impregnate her since her's couldn't
+- bf at first thinks that he was the lucky one
+- but years later finds out alfa may had been the one to impregnate gf first (as also got inside first)
+*** LINK
+https://www.literotica.com/s/family-skeleton
+** He Let Them Have Me :netorase:multiple:
+:PROPERTIES:
+:Writer: Imstillfun
+- bf convinces gf into it, later daughters catch on and want to try
+*** LINK
+https://www.literotica.com/s/he-let-them-have-me-01
+** The Good Guy Always Loses :multiple:
+:PROPERTIES:
+:Writer: dirtydan6969
+- bully steal first gf (feels guilty) and then sister too (doesn't)
+*** LINK
+https://www.literotica.com/s/the-good-guy-always-loses-ch-01
+** A Mom's Symbol :multiple:momntr:
+:PROPERTIES:
+:Writer: Egglime
+- two years ago beta stood up to alfa under his mom advice, worst mistake
+- now mom protects son from alfa who still occasionally beats beta up
+- the sister joins-in later, found mom cheating and was going to denounce but alfa dick hypnoptised her
+- sister cares, mom not anymore
+- beta eventually accepts cuckoldry, secretly arranges for sister to fuck on her birthday
+- sister feeds oblivious dad cake with cum
+*** LINK
+https://www.literotica.com/s/a-moms-symbol
+** Bully Takes Three :multiple:impregnation:
+:PROPERTIES:
+:Writer: remnick13
+- across 25 years mom, wife, daughter fall for tattoed alfa
+- beta had lied about bully actually being his friend to mom
+- wife made bf go to school reunion, where she got seduced and stayed the night with alfa and slut
+- daughter refuses to listen dad worries, ends up getting pregnant
+*** LINK
+https://web.archive.org/web/20131201005841/http://www.literotica.com/s/bully-takes-three
+** Reunited :multiple:
+:PROPERTIES:
+:Writer: NTRmaster
+- 3 wifes fall pray for alfa, later also daughter
+- first one was annoyed by beta trying to match up, second one wanted bf to make peace
+*** LINK
+https://www.literotica.com/s/reunited-18
+https://unrelentingcruelty.wordpress.com/category/series/reunited/reunited-1/
+** Sexy Sadistic Bitches :multiple:netorase:
+:PROPERTIES:
+:Writer: Andrew1968
+- first wife is sadistic and takes bf-sister too
+- years later bf mans up and divorses her, gets a new cutie as second wife
+- first hears and then pushes to become friend and then have sex with her
+- she divoreces bf, first marries second, and then three girls stick together
+*** LINK
+https://www.literotica.com/s/sexy-sadistic-bitches
+** Threesome with Chelsea :netorase:multiple:
+:PROPERTIES:
+:Writer: candycigars
+- she had been cheating wih alfa for a while, still, eventually abandons bf
+- convinces exbf to move out and pay the rent
+- circunstances make for exgf ending up on bf home with alfa
+- alfa fucks both of her sisters
+- later finds out that sister had been the culprit for matching them up
+*** LINK
+https://candycigars.webflow.io/chelsea
+https://www.reddit.com/r/cuckoldstories/comments/iuttb3/chelsea_cameron_part_4_of_how_i_accidentally_got/
+https://candycigars.webflow.io/chelsea
+https://www.reddit.com/r/cuckoldstories/comments/i2dqrh/story_of_the_month/g0adwdx/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+** Rachel's Demise
+:PROPERTIES:
+:Writer: candycigars
+- alfa gets her accustomed to fucking while she on web meeting
+- one time bf hears them through web stream that didn't end
+*** LINK
+https://candycigars.webflow.io/rachel
+** Big Brother Boss :denied:boss:
+:PROPERTIES:
+:Writer: :m8cct:
+- futuristic distopian world where only corporations have power
+- her boss puts a no sex chip inside her
+*** LINK
+[[https://www.literotica.com/s/big-brother-boss-ch-01]]
+** Replaced
+:PROPERTIES:
+:Writer: chas19839
+- vince takes family, gets imprinted as dad to the daughters
+- beta takes the place of family maid-slave
+*** LINK
+- https://www.literotica.com/s/replaced-ch-01
+** Donna's Destitute Cuckold :femdom:
+:PROPERTIES:
+:Writer: cuckytoher
+- wife reconnects with alfa through because of work
+- asks bf for the place of their wedding night, bf already knows they are going to fuck there
+*** LINK
+https://www.literotica.com/s/donnas-destitute-cuckold
+** The Bitch Roommate
+:PROPERTIES:
+:Writer: PurpleMonkeyDishwash
+- her friend makes her cheat
+*** LINK
+https://www.literotica.com/s/the-bitch-roomate
+** The Young Man's Boat
+:PROPERTIES:
+:Writer: Andrew1968
+- at boat orgy wife cheats and hubby gets rejected (excluded from swing)
+- wife tells him to give up
+*** LINK
+https://www.literotica.com/s/the-young-mans-boat
+** The Audio Cuckold
+:PROPERTIES:
+:Writer: Labpet1
+- her new friends sluttify her, despite bf please she refuses to not push lines
+- sets up a recorder but they knew it was there
+*** LINK
+https://www.literotica.com/s/the-audio-cuckold
+** Lapdancing Girlfriend :notasecret:
+:PROPERTIES:
+:Writer: DocCIS
+- beta-bully buys out the coffee where she was working, turns it into club and her into a whore
+- bully doesn't know she is beta wife, she doesn't know beta wathed it live
+*** LINK
+[[https://www.literotica.com/s/lapdancing-girlfriend-ch-01]]
+** Liberal Leanings :boss:black:
+:PROPERTIES:
+:Writer: PenPal2001
+- white gf starts working at black owned club, boss slowly corrupts her
+- she soon starts cheating and mocking her naive bf, even gets a tattoo
+- cheats on him for everyone in the appartment building to see
+*** LINK
+[[https://www.literotica.com/s/liberal-leanings]]
+** Office Work :boss:
+:PROPERTIES:
+:Writer: RipRespon
+- at night out at club she cheats on bf while bf was drunk
+- she pretends to not remember but from there on she becomes everyone slut
+- finally reveals that she actually remembered
+*** LINK
+[[https://www.literotica.com/s/office-work-ch-01]]
+** A Storm of Submission :boss:black:
+:PROPERTIES:
+:Writer: everyonesavoyeur
+- beta is a wimp and to wife dismay does nothing to stop alfa, so she just goes with the flow
+*** LINK
+[[https://www.literotica.com/s/a-storm-of-submission]]
+** You Don't Deserve My Pussy :netorase:boss:
+:PROPERTIES:
+:Writer: B_Couric
+- after netorase she says so
+*** LINK
+[[https://www.literotica.com/s/you-dont-deserve-my-pussy]]
+** The Janitor's Wife
+:PROPERTIES:
+:Writer: Karenkay
+- she ends up working as a bartender and beta as a janitor appart from her
+*** LINK
+[[https://www.literotica.com/s/the-janitors-wife]]
+** Seven Days :boss:
+:PROPERTIES:
+:Writer: Egglime
+- she losses no fuck again bet, fucks alfa at her annibirthery, while bf inside
+- alfa could choose himself to be boss or let beta win, but now wife chosed for beta to be alfa underling
+- wife even knew alfa had fucked himself into the spot, and that was indeed the case too
+*** LINK
+[[https://www.literotica.com/s/seven-days-ch-01-1]]
+** Robert & Alexis :blackmail:deflower:boss:honeymoon:
+:PROPERTIES:
+:Writer: The_Paperback_Writer
+- boss blackmails beta into helping him have sex with fiance first at their honeymoon
+*** LINK
+[[https://www.literotica.com/s/robert-and-alexis-pt-01]]
+** Risking Judy :blackmail:deflower:boss:honeymoon:
+:PROPERTIES:
+:Writer: Chris Seagate
+- boss blackmails beta into helping him have sex with fiance first at their honeymoon
+*** LINK
+[[https://www.literotica.com/s/risking-judy-ch-01]]
+** My Rival Wins My Wife, and I Lose
+:PROPERTIES:
+:Writer: Vulgus
+- childhood enemy is now their boss and uses his position to have sex with the wife
+- makes wife dress lewdly(colegiala) even in public
+*** LINK
+[[https://www.asstr.org/~Kristen/55/myrival.txt]]
+** Cucked by Our Refugee :netorase:black:
+:PROPERTIES:
+:Writer: Secrettie
+- refugee always intended to cuck him, him enjoying it was a fortunate development
+*** LINK
+[[https://www.literotica.com/s/cucked-by-our-refugee-pt-01]]
+** The Lodger from Hell
+:PROPERTIES:
+:Writer: ukresearcher
+- day one new lodger cucks him, wife just for a moment could resist him before falling to his spells
+- at workplace party lodger jokes in public about cucking beta, just a joke
+- wife naturally lets him take over, beta has to move out of the bedroom
+*** LINK
+[[https://www.literotica.com/s/the-lodger-from-hell]]
+** Fresh :black:
+:PROPERTIES:
+:Writer: PurpleMonkeyDishwash
+- collage, gf gets blacked, at first cheating then openly
+- beta gets penis mocked by white girl in charge of the dormitories, who is also blacked
+- broken heart beta stays over with another blacked white girl
+- they find themselves together at beta home where black also fucks his mom
+- in the end they become a couple again
+*** LINK
+[[https://www.literotica.com/s/fresh-pt-01]]
+** Second Place :keptvirgin:
+:PROPERTIES:
+:Writer: Runtz3
+- two couples together at dorm
+- amiga shares her bf with gf, virgin bf will go seconds
+*** LINK
+[[https://www.literotica.com/s/second-place]]
+** The Rule :foursome:denied:femdom:
+:PROPERTIES:
+:Writer: NauticalTwilight
+- two couples as roomates, one dominates, beta couple starts with rules(deal)
+- gf really gets into it, full blowjobs while beta is allowed to lick like a dog
+- amiga takes beta away for a week leaving alfa-gf alone during it
+*** LINK
+[[https://www.literotica.com/s/the-rule-ch-01]]
+** My Couch :denied:
+:PROPERTIES:
+:Writer: 8teenholes
+- exchange student, gf wants baby, slowly denies bf who slowly realizes the whole affair but just lets it keep going even when it becomes blatant
+*** LINK
+[[https://www.literotica.com/s/my-couch]]
+** Can't we let him stay?
+:PROPERTIES:
+:Writer: triangletoast
+- former bully of both arrives to their home seeking forgiveness but actually asking them for refugee
+- compasionate and drunk gf lets him stay
+- misteriously she sides with alfa and lets alfa get pushy
+*** LINK
+[[https://chyoa.com/story/Can%27t-we-let-him-stay.54001]]
+** My Roommate Wins :black:
+:PROPERTIES:
+:Writer: cardinalfan
+- redhead with black, both popular, keep fucking for months while beta there paying rent
+*** LINK
+[[https://literotica.com/s/my-roommate-wins]]
+** Roommate Relations :denied:
+:PROPERTIES:
+:Writer: TripleL
+- next door bully seduces gf, convinces her of keep dating beta (or drops her) so she keeps cheating
+- a year without fucking, bf kept awake by sounds next door
+- breakup while bf chained at chair
+*** LINK
+[[https://www.literotica.com/s/roommate-relations-ch-01]]
+* ROOMATE / HOUSEGUEST
+GF CRUEL
+http://www.obliviouscuckold.com/our-tenant-gave-something-big-to-my-wife-now-lives-rent-free/
+- gf lets bully sleep with her because he is injured, for six months
+*NATURAL CONSECUENCES
+- https://www.literotica.com/s/natural-consequences?page=1
+- first gf discovered how sadistic she was, later helps alfa steal second angelic gf
+- alfa takes second because bf broke the friendship and gf had tried to humilliate(lecture) him
+- https://www.literotica.com/s/natural-consequences-act-03
+- third gf too, the day she becomes her gf beta lets her fuck alfa so that gf understands beta-weaknesses
+- when beta braves up to stop being a cuck he is gang-cucked back into cuck
+* OBLIVIOUS
+https://www.literotica.com/s/elise-and-emily-ch-01 :bfmissunderstands:
+https://www.literotica.com/s/decorating-the-newlywed
+- bf sees it but mistakes semen for paint; alfa was helping painting
+https://www.literotica.com/s/firemans-carnival :infrontof:
+https://www.literotica.com/s/office-party-and-musical-chairs :shefallsondick:
+https://www.literotica.com/s/tainted-conception
+- coworker rival dresses like husband and fucks her while oblivious husband is distracted playing with vr at halloween party
+NOT RECOGNIZED
+https://www.literotica.com/s/house-party-9
+- amiga helps her cheat by keeping bf away
+- next day bf hears her but fails to recognize her sounds
+https://www.literotica.com/s/a-controlling-interest?page=1
+- bf cheers on sounds of couple getting fucked at company-party
+* SLUTTY GIRL
+https://www.literotica.com/s/my-roommate-takes-my-girlfriend :becky:
+- several other stories; she cucks him at trip and party too
+https://www.literotica.com/s/becky-goes-on-vacation :bfupstairs:
+https://www.literotica.com/s/just-one-of-the-guys-ch-06a
+- at vacation (with male friends) gf keeps crossing bf redlines
+https://www.literotica.com/s/my-girlfriend-joins-the-rugby-team
+https://www.literotica.com/s/the-big-bad-rick-wolfe
+- all females give in: gf, her amigas(even the shy), and teacher
+- gf decides she wants to slut around the world, beta not enough
+- alfa tattoes all who sleep with him
+https://www.literotica.com/s/my-latin-wife-a-fantasy-born-ch-01-08 :hubbyfetish:
+https://www.literotica.com/s/michelles-river-exploration :riverparty:
+* OUT OF CONTROL
+https://www.literotica.com/s/patriotic-duty :fbi:
+https://www.literotica.com/s/julia-the-patriot :soldier:
+https://www.literotica.com/s/you-should-leave :threesomeattemptseveraltimes:
+https://www.literotica.com/s/interception-1 :footballstarstealswife:
+https://www.literotica.com/s/valentines-interrupted :bfbirthday:sisterinlawbf:
+https://www.literotica.com/s/camping-curiosity
+- squeezed in tent with friend(alfa), whose dick pops out of pants and inside gf
+PRETEND NOT TO BE COUPLE
+https://www.literotica.com/s/the-part-time-assistant
+- she pretended to be lesbian to get job
+https://www.literotica.com/s/my-wife-honey
+- pretended to be sister-brother, trying to close a deal
+- alfa wants to impregnate her, gf doesnt believe bf tho thinks its jealous
+https://www.literotica.com/s/laceys-date-night
+- lended, pretends to be friend-gf; ends up going for real
+* BACHELORETE
+https://www.literotica.com/s/bachelor-party-gang-bang
+https://www.swinglifestyle.com/erotic_stories/cuckold/my-wife-helps-me-by-doing-a-bachelor-party/Storyid_58780/readstory.html
+https://www.literotica.com/s/bachelor-party-surprise
+- cant find stripper, gf takes place
+https://www.literotica.com/s/bachelor-party-gone-wild
+https://www.literotica.com/s/the-bachelor-party-3
+https://www.literotica.com/s/the-brides-first-dance
+- bf bachelorette, amiga gets her to pretend to be the stripper
+- the masked-stripper is test-groped by friend to test bf fidelity
+- beta resists and gives alfa the go to fuck her, unknowingly its his fiance, in their bed
+  - later verbally humilliating her fiance, known only to the friend
+* SURROGATE
+http://darkwanderer.net/threads/surrogate-mother.7502/
+https://www.literotica.com/s/an-affordable-insemination
+- wife's sister is infertile and asks her to be impregnated by her husband
+  - second part: https://www.literotica.com/s/an-affordable-insemination-redux
+https://www.cuckoldsforum.com/index.php?threads/take-your-medicine-honey.6260/
+- medicine keeps bf impotent, bf discovers he is cuck
+- card game where non-numbers leave him caged
+https://www.literotica.com/s/mutual-agreement :impotent:
+
+* BBC DESCENT / BLACK
+https://www.literotica.com/s/the-speedo-doesnt-lie-ch-01 :slowlysubmits:coachwife:
+https://www.literotica.com/s/his-breeding-cow
+https://www.literotica.com/s/family-disrupted-pt-01
+- bizarre world, friend imprisoned and gorgeous wife already cheating
+- gf is feminist but still gets attarted to bully, justifies him
+- bully killed dad-son while fucked mother and daughter
+- school director is antipatriarchy goddess
+* OTHERS
+https://www.literotica.com/s/allure-of-the-bad-boy
+- goes to have public sex at night with bf, goes back to car for blankets but actually to get fucked by random sexy drug dealer while bf waiting in the woods
+https://www.literotica.com/s/the-locker-bull
+- to antibully sister and cheating gf: who is in locker?
+https://www.literotica.com/s/all-in-my-head-ch-01 :jenny:scott:alice:threesomeneverforbf:
+https://www.literotica.com/s/cuck-therapy-pt-01
+- couple therapist gets them into it, after she cheated
+==Every single story written by== [[https://www.literotica.com/stories/memberpage.php?uid=389201&page=submissions][J267]] [[https://www.literotica.com/stories/memberpage.php?uid=2556793&page=submissions][everyonesavoyeour]] [[https://www.literotica.com/stories/memberpage.php?uid=1029823&page=submissions][purplemonkeydishwash]] [[https://gustavjorgensonauthor.wordpress.com/][gustavjorgenson]] [[https://www.literotica.com/stories/memberpage.php?uid=918040&page=submissions][xleglover]]
+* TOPICS
+HOTWIFING
+https://www.literotica.com/s/humiliated-1
+- Jerk fucks wife in a party and everyone could hear
+https://www.literotica.com/s/giving-nikki-away
+- bf away, through cam bf gives in and witnesses gf become friend fucktoy
+https://www.literotica.com/s/you-can-t-rewind-reality
+- asian chinense wife for valentine gifts hubby his cuck fantasy
+https://www.literotica.com/s/ill-be-your-woman
+- husband pushed for it, went on vacation with alfa, once back she gives alfa husband-bed, stays married for the money
+2 CUCKS
+https://www.literotica.com/s/three-friends-two-cuckolds
+- both know
+https://www.literotica.com/s/flex-appeal
+- black bodybuilder, 2 gfs cheat, never find out
+https://www.literotica.com/s/innocent-girlfriend :virgin:
+- alfa makes his-brother wife cheat on him, then uses this anecdote to get alfa-bff interested in letting gf experiment before marriage so she doesnt cheat on him
+  - only finding out at the end that alfa was the cucker in the annecdote
+  - two woman for alfa, both cucks like to see spectacle
+DOMINATRIX
+https://www.literotica.com/s/denial-ch-01
+- wife gets bf into bdsm, later another domiatrix joins; later her mother
+- sexless marriage
+SISSY
+https://www.literotica.com/s/getting-nailed-1
+- almost accidentally they get into it, alfa didnt recognized bf
+UNWANTED
+https://www.literotica.com/s/ready-for-some-football
+- alfa friend of friends makes wife his slut in front of them
+- asks her to do things and she does, soda at tits
+OBLIVIOUS CUCKOLD
+http://www.obliviouscuckold.com/your-condoms-are-way-too-small-for-me-buddy/
+- asks bf for a condom, turns out its too small
+http://www.obliviouscuckold.com/my-girl-made-out-with-my-buddy-in-front-of-me-at-a-party/
+- asks to lend gf, but she cucks her bf publicly and cruely
+EMBRACED
+- https://www.literotica.com/s/my-crush-dates-a-jerk
+  - beta finds the love and eventually embraces her and his own(cuck) needs
+  - wins her over slowly
+  - they become the perfect couple
+  - alfa flirts with her in front of party
+REUNION
+- https://www.literotica.com/s/ten-year-reunion-ch-01
+  - school reunion, she meets her old bf, chance of swing with his hottest wife
+    - they have a fuck date while beta a cute date
+    - amiga gives lap to beta, who must not touch, while alfa fondles gf
+- https://www.literotica.com/s/the-reunion-125
+  - bf wakes up to gf getting banged after at school reunion makes the mistake of complaining-remembering it to old bully
+    - while at it she finds gf ring and makes him propose to her
+    - she pretends its a dream and bf wakes up to her acting as if nothing happened
+TRUE EVIL
+https://unrelentingcruelty.wordpress.com/category/single-episode-stories/evil-love/
+- normal woman gets corrupted, job denial, kills bf while having sex with alfa
+https://storieswithnebic.wordpress.com/2016/07/08/julias-descent/ :brainwash:bully:
