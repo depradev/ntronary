@@ -1,8 +1,10 @@
 #+TITLE: Netorare
-(visual-line-mode)
+* ARTISTS AND DOUJINS ORGANIZED INTO NODES NOW
+* DEPRECATED FILE, THE REMAINING INFO IS MOSTLY TRASH
+
+* OTHERS
 - tag search in anime-hentai: https://theindex.moe/library/hentai
 - imgur grid layout https://imgur.com/a/NUMBER/layout/grid
-
 * NTR LITERATURE
 https://chyoa.com/story/Being-an-adventurer-is-not-always-the-best.29686
 [IsekaiNTR] When I was summoned to another world with RPG style, [Likes NTR] skill appeared.

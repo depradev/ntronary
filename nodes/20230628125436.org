@@ -3,5 +3,5 @@
 :END:
 #+title: oᴗo
 #+filetags: :20230628125436:artist:ntronary:
-* NAME
+- NAME
 Milk Force

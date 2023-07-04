@@ -3,6 +3,6 @@
 :END:
 #+title: oᴗo
 #+filetags: :20230628132832:artist:ntronary:
-* NAME
+- NAME
 Dramus
 ドラムス
