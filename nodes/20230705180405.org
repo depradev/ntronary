@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       e83c2ec5-70c0-4c42-bdca-30027d5e89b3
+:END:
+#+title: FANTASY
+#+filetags: :20230705180405:ntronary:theme:
+- NAME
+Fantasy

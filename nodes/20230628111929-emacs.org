@@ -55,3 +55,5 @@ Then you add this to your emacs config.el, to get a quick-creation way to create
   2. if too many backlinks, consider hierarchization of nodes
   3. if its a feature of the artwork, consider a text descriptions instead, which enables regex search
   4. otherwise, you may consider a proper tag
+** FILTERING NODES
+- inside emacs to get a list of nodes filtered down, you could use org-roam-node-find <your filter>, filter it and then INSTEAD of ENTER-ing it, use M-x embark-export
