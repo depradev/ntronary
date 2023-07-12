@@ -3,3 +3,10 @@
 :END:
 #+title: HELP
 #+filetags: :20230628145107-help:ntronary:
+* TOOLS
+- exhentai backup site
+  - https://panda.chaika.moe/
+* CHARACTERS
+- random floating ntr characters
+  - dark elves(elf): Olga Discordia from Kuroinu
+  - Pirotess (black elf)

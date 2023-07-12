@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       359698d5-1bd1-430b-acc6-dd92f20a395d
+:END:
 #+title: Ntrotica
 
 - why is ntrotica organized differently than the ntronary?
