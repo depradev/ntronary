@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       429baf3d-3a60-4165-bdec-96c76ea55e92
+:END:
+#+title: ORK
+#+filetags: :20230716055738:ntronary:

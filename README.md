@@ -28,7 +28,7 @@ My personal org-roam garden has so much information and it only weighs a few Mb.
 I would welcome and merge-in similar efforts of equivalent dedication.  
 Then we could operate as silos.
 I welcome structuring-formating ideas.
-## WHAT IS NTROTICA?
+## WHAT IS ntrotica.org?
 It's a similar effort but for cuckold-erotica literary works, from sites like literotica.  
 It differs in that it's all contained into a single file, using org-tags instead of roam nodes.  
 ## INSTRUCTIONS, HOW TO USE
