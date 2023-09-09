@@ -35,6 +35,8 @@ It differs in that it's all contained into a single file, using org-tags instead
 git clone https://github.com/depradev/ntronary  
 as a folder inside your org-roam directory, the graph is interactive and was made with org-roam-ui  
 To on-the-fly get an interactive list of the artists artworks, you would use the backlink system.  
+## UTILITY NODES
+- help, emacs, search, slang, japanese
 ### USE WITHOUT EMACS
 Alternatively, if you aren't using emacs nor org-roam, you could use the index.org for the artist and then seach for the node. Or find their artworks by using it as regex using a tool like rg.  
 https://raw.githubusercontent.com/depradev/ntronary/master/index.org

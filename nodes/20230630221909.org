@@ -5,3 +5,4 @@
 #+filetags: :20230630221909:artist:ntronary:
 - NAME
 baketsu purin
+Baketsu Purin

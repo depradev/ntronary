@@ -6,3 +6,4 @@
 - NAME
 Carn
 Magono-Tei (Carn)
+Magonotei (Carn)

@@ -10,7 +10,7 @@
 #+begin_src bash :results output none
 index_artists(){
      CURRENTDIR=$(pwd)
-     cd ~/org/roam/ntronary/nodes #YOUR PATH
+     cd ~/org/roam/ntronary/nodes
      file=~/org/roam/ntronary/index.org
      rm $file
      for f in *.org; do
@@ -18,7 +18,7 @@ index_artists(){
             if [[ "$tags" == *":artist:"* ]]; then
                    name=$(cat "$f" | tr -d '\n' | sed 's/.*- NAME//' | sed 's/\* LINK.*//')
                    id=$(echo "$f" | sed "s/.org//g")
-                   name_final="** "$name" :"$id":"
+                   name_final="** [[file:./nodes/"$id".org]["$id"]] "$name
                    echo "$name_final" >> "$file"
             fi
      done
@@ -27,6 +27,7 @@ index_artists(){
      cd $CURRENTDIR
 }
 #+end_src
+- by using relative links instead of proper org-roam links, we avoid the redundant artist-index backlink in every node
 * ALTERNATIVE SEARCH
 - this is a raw example on how to seach for artists, for the time being
 - you would add this to your .bashrc

@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       8d68877e-4086-4121-9b2e-01e872b746bf
+:ROAM_REFS: 20230630230710
 :END:
 #+title: oᴗo
 #+filetags: :20230630230617:artist:ntronary:
 - NAME
-Yuuki Saien
+Yuuki Saien, Kahmasu
