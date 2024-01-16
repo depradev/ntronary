@@ -3,3 +3,4 @@
 :END:
 #+title: JOB
 #+filetags: :20230701041514:ntronary:
+bookkeeping = contabilidad
